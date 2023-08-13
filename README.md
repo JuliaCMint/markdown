@@ -16,4 +16,4 @@ https://markdown-list-app.netlify.app/
 
 #### PREVIEW
 
-![Markdown-app](https://github.com/JuliaCMint/markdown/assets/105377899/e2f59db4-b34b-4163-81e3-405792e2d34c)
+![Markdown-app](https://github.com/JuliaCMint/markdown/assets/105377899/162188d4-9740-481b-93bf-4cd38363a09e)
